@@ -18,6 +18,7 @@ Le projet combine des fonctions intégrées de R, comme "lm()" pour la régressi
 - "lm_graph()" : illustre la significativité des variables explicatives dans le modèle linéaire
 - "rf_graph()" : affiche l’importance relative des variables dans la forêt aléatoire
 - "evaluer_modeles()" : compare les performances des modèles selon les métriques R², RMSE et MAE
+- "graph_conso()" : affiche les graphiques pour l'analyse final des données
 
 ## Objectif
 
