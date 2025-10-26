@@ -1,3 +1,9 @@
+# Projet : Modélisation et prédiction des consommations d’électricité, d’eau et de gaz
+# Auteur : lau1258
+# Date : 26 octobre 2025
+# Données : AMPds2 – Electricity, water, and natural gas consumption of a residential house in Canada
+# Référence : Makonin, S. et al. (2016). *Scientific Data*, 3, 160037. https://doi.org/10.1038/sdata.2016.37
+
 library(dplyr)
 library(lubridate)
 library(tidyr)
